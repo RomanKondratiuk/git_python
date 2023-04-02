@@ -1,4 +1,7 @@
 def modified_str(str):
+    """
+    Функция , которая изменяет все буквы в строке на заглавные
+    """
     new_str = str.upper()
     print(new_str)
 
